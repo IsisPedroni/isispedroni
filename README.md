@@ -17,7 +17,7 @@
   
 <div> 
   <a href="https://www.linkedin.com/in/%C3%ADsis-pedroni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <img align="right" alt="Rafa-pic" src="https://media.discordapp.net/attachments/639956127056134178/890372196839596122/Publicacoes_Instagram_2.png">
+ <a href="https://instagram.com/isispedroni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  
 </div>
