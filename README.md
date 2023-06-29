@@ -1,6 +1,10 @@
 ### Olá! Eu Sou a Ísis
 
-
+<div>
+  <a href="https://github.com/Isispedroni">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Isispedroni&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isispedroni&layout=compact&langs_count=7&theme=omni"/>
+ </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="isis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,6 +17,7 @@
   
 <div> 
   <a href="https://www.linkedin.com/in/%C3%ADsis-pedroni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="right" alt="Isis-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/[Publicacoes_Instagram_1_1.png?width=676&height=676](https://www.instagram.com/isis.pedroni/)https://www.instagram.com/isis.pedroni/">
  
 </div>
 
