@@ -1,4 +1,4 @@
-### Oi, Eu Sou a Ísis 👋
+### Oi, Eu sou a Ísis 👋
 
 <div>
   <a href="https://github.com/Isispedroni">
